@@ -1,2 +1,2 @@
 # fitness4her
-Fitness4Her offers a dedicated space for women to achieve their fitness goals. Enjoy personalized training, diverse classes, and expert nutrition guidance. Whether starting out or aiming higher, our top-tier facilities and supportive environment cater to all fitness levels. Join us to transform your wellness journey!
+**Fitness4Her** is my **inaugural project** from **2018**, crafted to deliver a specialized fitness experience for _women_. This project was an excellent opportunity to dive into **web development**, utilizing _TypeScript_ to build a robust and scalable platform. Designed with user-friendly interfaces and comprehensive features, it reflects my early commitment to leveraging modern technologies in creating practical solutions.
